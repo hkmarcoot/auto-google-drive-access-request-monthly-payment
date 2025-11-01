@@ -1,5 +1,5 @@
 {
-  "name": "auto-google-drive-access-request01",
+  "name": "auto-google-drive-access-request-monthly-payment",
   "displayName": "01 Auto Google Drive Access Request Tool",
   "version": "0.0.1",
   "description": "The second you open a restricted Google Doc, it fires off the access request automatically.",
